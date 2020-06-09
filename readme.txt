@@ -1,2 +1,0 @@
-run this command first:
-	sudo sysctl -w vm.max_map_count=262144
